@@ -1,5 +1,4 @@
-# av_ship_game_of_deeplearning
-Analytics Vidya Ship Images classification
+# Analytics Vidya Ship Images classification
 
 # Public LB score:  0.97478956805641
 # Private LB score: 0.9701055211
