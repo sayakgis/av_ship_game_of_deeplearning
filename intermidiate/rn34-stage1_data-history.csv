@@ -1,0 +1,2 @@
+epoch,train_loss,valid_loss,fbeta,accuracy_thresh,cpu used,peak,gpu used,peak,time
+0,0.689309,0.506526,0.620195,0.768960,7,21,0,2050,00:06
